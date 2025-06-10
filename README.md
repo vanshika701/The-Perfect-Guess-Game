@@ -1,5 +1,4 @@
 # The-Perfect-Guess-Game
-Python
 This is a simple number guessing game written in Python. When the program runs:
 
 It randomly selects a number between 5 and 50.
